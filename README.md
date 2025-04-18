@@ -9,6 +9,4 @@
 
 ### Tests de l’API
 
-Pour tester l'API, il suffit d'aller sur un navigateur et de taper _localhost:8000/users_ et les données de la table s'afficherons
-
-### Difficultés rencontrées
+Pour tester l'API, il suffit d'aller sur un navigateur et de taper _localhost:8000/users_ et les données de la table s'afficherons.
